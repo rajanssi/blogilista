@@ -1,0 +1,12 @@
+POST  http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer asd
+
+{
+    "title": "Fishing blog 2",
+    "author": "Jimothy Timothy",
+    "url": "www.myspace.com"
+}
+
+
+
